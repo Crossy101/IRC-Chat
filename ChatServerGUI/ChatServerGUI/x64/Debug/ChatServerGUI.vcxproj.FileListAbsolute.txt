@@ -1,0 +1,6 @@
+C:\Users\Callu\source\repos\ChatServerGUI\ChatServerGUI\x64\Debug\ChatServerGUI.vcxprojAssemblyReference.cache
+C:\Users\Callu\source\repos\ChatServerGUI\ChatServerGUI\x64\Debug\ChatServerGUI.MyForm1.resources
+C:\Users\Callu\source\repos\ChatServerGUI\ChatServerGUI\x64\Debug\ChatServerGUI.vcxproj.GenerateResource.cache
+C:\Users\Crossy\source\repos\NetworkApplications\ChatServerGUI\ChatServerGUI\x64\Debug\ChatServerGUI.vcxprojAssemblyReference.cache
+C:\Users\Crossy\source\repos\NetworkApplications\ChatServerGUI\ChatServerGUI\x64\Debug\ChatServerGUI.MyForm1.resources
+C:\Users\Crossy\source\repos\NetworkApplications\ChatServerGUI\ChatServerGUI\x64\Debug\ChatServerGUI.vcxproj.GenerateResource.cache

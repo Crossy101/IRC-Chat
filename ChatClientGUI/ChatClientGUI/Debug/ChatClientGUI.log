@@ -1,0 +1,12 @@
+﻿  ClientConnection.cpp
+  MyForm.cpp
+C:\Users\Crossy\source\repos\NetworkApplications\ChatClientGUI\ChatClientGUI\MyForm.h(30,37): warning C4677: 'clientConnection': signature of non-private member contains assembly private type 'ClientConnection'
+C:\Users\Crossy\source\repos\NetworkApplications\ChatClientGUI\ChatClientGUI\ClientConnection.h(7): message : see declaration of 'ClientConnection'
+C:\Users\Crossy\source\repos\NetworkApplications\ChatClientGUI\ChatClientGUI\MyForm.h(288,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Crossy\source\repos\NetworkApplications\ChatClientGUI\ChatClientGUI\MyForm.h(289,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Crossy\source\repos\NetworkApplications\ChatClientGUI\ChatClientGUI\MyForm.h(317,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Crossy\source\repos\NetworkApplications\ChatClientGUI\ChatClientGUI\MyForm.h(318,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Crossy\source\repos\NetworkApplications\ChatClientGUI\ChatClientGUI\MyForm.h(319,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+  ClientConnection.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ChatClientGUI.vcxproj -> C:\Users\Crossy\source\repos\NetworkApplications\ChatClientGUI\Debug\ChatClientGUI.exe

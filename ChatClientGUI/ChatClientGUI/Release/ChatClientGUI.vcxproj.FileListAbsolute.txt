@@ -1,0 +1,3 @@
+C:\Users\Callu\source\repos\ChatClientGUI\ChatClientGUI\Release\ChatClientGUI.MyForm.resources
+C:\Users\Callu\source\repos\ChatClientGUI\ChatClientGUI\Release\ChatClientGUI.vcxproj.GenerateResource.cache
+C:\Users\Callu\source\repos\ChatClientGUI\ChatClientGUI\Release\ChatClientGUI.vcxprojAssemblyReference.cache

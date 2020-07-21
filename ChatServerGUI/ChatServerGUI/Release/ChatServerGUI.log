@@ -1,0 +1,22 @@
+﻿  ClientConnection.cpp
+  MyForm1.cpp
+C:\Users\Callu\source\repos\ChatServerGUI\ChatServerGUI\MyForm1.h(200,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Callu\source\repos\ChatServerGUI\ChatServerGUI\MyForm1.h(201,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Callu\source\repos\ChatServerGUI\ChatServerGUI\MyForm1.h(212,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Callu\source\repos\ChatServerGUI\ChatServerGUI\MyForm1.h(213,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Callu\source\repos\ChatServerGUI\ChatServerGUI\MyForm1.h(230,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Callu\source\repos\ChatServerGUI\ChatServerGUI\MyForm1.h(231,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Callu\source\repos\ChatServerGUI\ChatServerGUI\MyForm1.h(232,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Callu\source\repos\ChatServerGUI\ChatServerGUI\MyForm1.h(244,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Callu\source\repos\ChatServerGUI\ChatServerGUI\MyForm1.h(254,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Callu\source\repos\ChatServerGUI\ChatServerGUI\MyForm1.h(255,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Callu\source\repos\ChatServerGUI\ChatServerGUI\MyForm1.h(339,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Callu\source\repos\ChatServerGUI\ChatServerGUI\MyForm1.h(340,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Callu\source\repos\ChatServerGUI\ChatServerGUI\MyForm1.h(341,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Callu\source\repos\ChatServerGUI\ChatServerGUI\MyForm1.h(363,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Callu\source\repos\ChatServerGUI\ChatServerGUI\MyForm1.h(379,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+C:\Users\Callu\source\repos\ChatServerGUI\ChatServerGUI\MyForm1.h(372): warning C4715: 'ChatServerGUI::MyForm::GetClientCommand': not all control paths return a value
+  ClientConnection.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ChatServerGUI.vcxproj -> C:\Users\Callu\source\repos\ChatServerGUI\Release\ChatServerGUI.exe

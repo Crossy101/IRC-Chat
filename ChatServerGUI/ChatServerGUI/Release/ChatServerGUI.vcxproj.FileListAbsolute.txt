@@ -1,0 +1,2 @@
+C:\Users\Callu\source\repos\ChatServerGUI\ChatServerGUI\Release\ChatServerGUI.MyForm1.resources
+C:\Users\Callu\source\repos\ChatServerGUI\ChatServerGUI\Release\ChatServerGUI.vcxproj.GenerateResource.cache
